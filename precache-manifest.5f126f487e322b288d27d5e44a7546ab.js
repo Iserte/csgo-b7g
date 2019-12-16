@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b57298fca29a2ee7b43a99d01dd14ee3",
+    "revision": "79a4d815fda37d99ea5f3a21d55bfb8f",
     "url": "/csgo-b7g/index.html"
   },
   {
-    "revision": "10205e6b43cb9c112b63",
-    "url": "/csgo-b7g/static/js/2.76130f5b.chunk.js"
+    "revision": "e78632d8b8ab764e45df",
+    "url": "/csgo-b7g/static/js/2.846faac2.chunk.js"
   },
   {
-    "revision": "d97dab55a4cc9fe3e5be",
-    "url": "/csgo-b7g/static/js/main.6bc030f1.chunk.js"
+    "revision": "31cc786861f4d4698161",
+    "url": "/csgo-b7g/static/js/main.91eaa4db.chunk.js"
   },
   {
     "revision": "ef17e6e0a5c2786eb8af",
