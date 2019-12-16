@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/csgo-b7g/static/js/main.eef390f6.chunk.js",
-    "main.js.map": "/csgo-b7g/static/js/main.eef390f6.chunk.js.map",
+    "main.js": "/csgo-b7g/static/js/main.6bc030f1.chunk.js",
+    "main.js.map": "/csgo-b7g/static/js/main.6bc030f1.chunk.js.map",
     "runtime-main.js": "/csgo-b7g/static/js/runtime-main.88e7452a.js",
     "runtime-main.js.map": "/csgo-b7g/static/js/runtime-main.88e7452a.js.map",
-    "static/js/2.cff8ef2c.chunk.js": "/csgo-b7g/static/js/2.cff8ef2c.chunk.js",
-    "static/js/2.cff8ef2c.chunk.js.map": "/csgo-b7g/static/js/2.cff8ef2c.chunk.js.map",
+    "static/js/2.76130f5b.chunk.js": "/csgo-b7g/static/js/2.76130f5b.chunk.js",
+    "static/js/2.76130f5b.chunk.js.map": "/csgo-b7g/static/js/2.76130f5b.chunk.js.map",
     "index.html": "/csgo-b7g/index.html",
-    "precache-manifest.7d647d1c0778760413e329b207384a9b.js": "/csgo-b7g/precache-manifest.7d647d1c0778760413e329b207384a9b.js",
+    "precache-manifest.7be9bd34f9fff37f318245fd6b8b0a84.js": "/csgo-b7g/precache-manifest.7be9bd34f9fff37f318245fd6b8b0a84.js",
     "service-worker.js": "/csgo-b7g/service-worker.js",
     "static/media/background-forfun.png": "/csgo-b7g/static/media/background-forfun.955622e6.png",
     "static/media/background-lobby.png": "/csgo-b7g/static/media/background-lobby.a390c1dd.png",
@@ -15,7 +15,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.88e7452a.js",
-    "static/js/2.cff8ef2c.chunk.js",
-    "static/js/main.eef390f6.chunk.js"
+    "static/js/2.76130f5b.chunk.js",
+    "static/js/main.6bc030f1.chunk.js"
   ]
 }
